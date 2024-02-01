@@ -3,6 +3,10 @@ body {
     color: #fff;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .cabecalho {
     height: 80px;
     background-color: #0b0b0b;
